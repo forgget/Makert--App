@@ -21,8 +21,7 @@
 ## PT/BR
 
 O que é o Supermarket App:
-* Um Carrinho de supermercado.
-* Você tem multiplas escolhas de frutas dentro do seu carrinho, escolha uma e a compre, a api irá renderizar informações sobre a equipe de desenvolvimento de acordo com sua escolha.
+* Um Carrinho de supermercado. ocê tem multiplas escolhas de frutas dentro do seu carrinho, escolha uma e a compre, a api irá renderizar informações sobre a equipe de desenvolvimento de acordo com sua escolha.
 * Este projeto foi desenvolvido para fins de estudo, a equipe de alunos do terceiro ano do ensino médio com curso técnico integrado pela escola Senac o desenvolveu para conversar com otura aplicação que faz parte da nota de um projeto do ano letivo.
 
 ## Ad disclamer
